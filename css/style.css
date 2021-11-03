@@ -27,7 +27,8 @@ h1 {
     color: lightgoldenrodyellow;
 }
 
-h2 .selector #universal {
+h2.selector,
+h2#universal {
     background-color: darkcyan;
     padding: 1%;
     border-radius: 5px;
